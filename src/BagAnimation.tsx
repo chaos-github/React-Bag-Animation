@@ -42,7 +42,7 @@ export default function BagAnimation({
   swipeHintText = "Swipe to open",
   boxOpeningText = "Box Opening...",
   clickHintText = "Click to open",
-  skipAnimationText = "Skip",
+  skipAnimationText = "Skip Animation",
   hasChances = false,
   showMask = true,
   maskOpacity = 0.7,
